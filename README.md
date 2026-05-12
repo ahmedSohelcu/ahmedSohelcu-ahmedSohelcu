@@ -89,7 +89,7 @@ I build **systems that scale**:
 ## 📫 Contact
 
 - GitHub: https://github.com/ahmedSohelcu
-- Email: your-email@example.com
+- Email: ahmedsohelcu@gmail.com
 - LinkedIn: your-linkedin
 
 ---
