@@ -1,17 +1,16 @@
-# Hi, I'm Ahmed 👋
+# E-Commerce System
 
-Fullstack Developer (Laravel + Vue.js)
+## Features
+- Authentication
+- Product management
+- Cart system
+- Admin dashboard
 
-💼 Skills:
-- Laravel (API, Auth, REST)
-- Vue 3 + Vite
-- MySQL
-- Flutter (basic/mobile apps)
+## Tech Stack
+Laravel, Vue 3, MySQL
 
-🚀 Currently working on:
-- SmartPrep Academy App
-- Improving system design skills
+## Screenshots
+(Add images)
 
-📫 Contact:
-Email: your@email.com
-LinkedIn: your linkedin
+## Live Demo
+https://yourproject.com
